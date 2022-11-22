@@ -1,5 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif")
-
 <h1 align="center">Hi 👋, I'm ReinGrad</h1>
 <h1 align="center">Experimental version) and a lot of links are not correct version and a lot of links are not correct</h1>
 <h3 align="center">A passionate frontend developer and Python developer in Kazakhstan</h3>
