@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ReinGrad</h1>
-<h1 align="center">Experimental version) and a lot of links are not correct version and a lot of links are not correct</h1>
-<h3 align="center">A passionate frontend developer and Python developer in Kazakhstan</h3>
+<h1 align="center">A passionate frontend developer and Python developer in Kazakhstan</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
