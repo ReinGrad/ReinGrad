@@ -1,61 +1,27 @@
-![ViewCount](https://views.whatilearened.today/views/github/navassherif98/README.md.svg?cache=remove)
-
-## <img src="https://github.com/navassherif98/navassherif98/blob/main/assets/wave-hello.gif" width="40px"> Hi there, I'm [Navas Sherif I](https://navassherif98.github.io/Portfolio/) - Associate Software Developer at [IQVIA](https://www.iqvia.com/) 🏢
-
-### I'm a Btech Computer Science Graduate (2021 Batch) 
-
-- 🔭 A Data Science Enthusiastic
-- 🌱 I’m currently working on :
-    - [ ] Deep Learning
-    - [X] Big Data
-- 🥅 2021 Goals: Learning New Skills on the field of Data Science, Big Data and Web Development
-- ⚡ Fun fact: I love Football⚽  and My favourite Player is Messi 👑
-- 🌟 *Motivated by the desire to achieve success*
-
-***
-
-### About :
-A continuous Learner, with good knowledge of Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
-
-My career objective is to pursue a challenging career and be part of a progressive organisation to utilise my technical and analytical skills for growth of the organisation as well as to enchance my knowledge about new and emerging trends in IT sector. 
-
-CV : [Navas CV](https://drive.google.com/file/d/1CRE5B9ZncM1M5ziVPMDJVFS-8rqEiLSA/view?usp=sharing)
-[<img align="left" alt="navassherif98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="navassherif98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+# 💫 About Me:
+🔭 I'm currently working on Data Science and Machine Learning Python Tensorflow, Pytorch<br>👯 I offer cooperation<br>🤝 Please help<br>🌱 I'm currently studying at the Master's in Information Systems<br>💬 Ask me what you want)<br>⚡ Fun fact I study in my own way
 
 
-***
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rise_of_kerey/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shyngys-beket/) 
 
-### My Recent Certification :
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shyngys&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shyngys&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyngys&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/7PC2MFJV7NJD"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
-#### Repository : [View IBM Data Science Repository ](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification)It contains all Assignment and Quiz Answers of this course.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shyngys&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-***
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Connect with me: 
-<a target="Portfolio" href="https://navassherif98.github.io/Portfolio/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Portfolio.png" alt="Portfolio" width="415" height="170"></img></a>
-<br />
-<a target="Linkedin" href="https://www.linkedin.com/in/navassherif/"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/Linkedin.png" alt="Portfolio" width="415" height="165"></img></a>
-<br />
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-### Languages and Tools:
+---
+[![](https://visitcount.itsvg.in/api?id=Shyngys&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-
-
-[instagram]: https://www.instagram.com/navas_sherif_/
-[linkedin]: https://www.linkedin.com/in/navassherif
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
