@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Shyngys
 🔭 I'm currently working on Data Science and Machine Learning Python Tensorflow, Pytorch<br>👯 I offer cooperation<br>🤝 Please help<br>🌱 I'm currently studying at the Master's in Information Systems<br>💬 Ask me what you want)<br>⚡ Fun fact I study in my own way
 
 
